@@ -1,0 +1,30 @@
+GRANFACE ODONTOLOGIA - APRESENTACAO PORTATIL
+
+COMO ABRIR NO WINDOWS
+1. Extraia todo o conteudo do ZIP para uma pasta no notebook.
+2. Abra a pasta GRANFACE-APRESENTACAO-WINDOWS.
+3. Clique duas vezes em ABRIR-GRANFACE.cmd.
+4. Aguarde o navegador abrir. Mantenha a janela do terminal aberta durante o uso.
+5. Para encerrar, feche a janela do terminal.
+
+Use Chrome ou Edge atualizado, com aceleracao grafica habilitada para o 3D.
+Nao e necessario instalar Node.js, npm, Python ou dependencias do projeto.
+A apresentacao funciona sem internet. Todas as imagens e scripts estao neste ZIP.
+O iniciador utiliza PowerShell/.NET, componentes que ja acompanham o Windows.
+O Windows pode pedir confirmacao para executar arquivos baixados de outro computador.
+
+INFORMACOES
+Este pacote contem somente o site compilado e um iniciador local.
+O iniciador serve os arquivos no proprio notebook, em um endereco 127.0.0.1.
+Nao publica nada na internet e nao recebe conexoes de outros computadores.
+O endereco muda a cada abertura para evitar conflito com outros programas.
+Abra pelo iniciador; o navegador precisa carregar o site por esse endereco local.
+O index.html sozinho, aberto por duplo clique, pode bloquear os modulos JavaScript.
+
+DEMONSTRACAO
+O formulario e ilustrativo: nao envia, nao salva e nao realiza agendamentos.
+Os retratos e o antes/depois sao ilustracoes geradas por IA.
+O prototipo nao apresenta resultados clinicos comprovados nem pacientes reais.
+
+Este iniciador e para Windows 10/11 com PowerShell 5.1 ou superior.
+Ele nao e um aplicativo para macOS ou Linux.

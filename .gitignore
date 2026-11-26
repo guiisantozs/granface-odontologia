@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.tools/
+test-results/
+.DS_Store
+*.tsbuildinfo
+entrega/
+reference/
+scripts/analyze-video.py
+.env
+.env.*
+!.env.example

@@ -1,0 +1,19 @@
+IMAGENS GERADAS PARA A REVISÃO DO PROTÓTIPO
+Modo: ferramenta nativa image_gen (sem API externa no site).
+
+public/assets/smile-comparison-pair.png
+Par de retratos da mesma mulher adulta fictícia, frontal, com o mesmo enquadramento,
+expressão, cabelo, roupa preta e fundo bege. Metade esquerda com dentes naturalmente
+amarelados e moderadamente desalinhados; direita com somente os dentes alinhados,
+harmoniosos e em tom marfim claro. Sem texto, sem marcas e sem alegação clínica.
+As duas metades são exibidas por recorte CSS no comparador; nenhum dado real.
+
+public/assets/granface-transparent.png
+Remoção do fundo da logo original, preservando símbolo, tipografia e dourado.
+O cabeçalho e o rodapé mantêm o mesmo recorte visual do nome por CSS.
+
+Prompt da edição utilizada:
+Use case: background-extraction. Edit target: attached original GRANFACE ODONTOLOGIA brand logo. Remove ALL dark/black textured background and white/light-gray outer corners, leaving genuinely transparent alpha everywhere except the ORIGINAL GOLD MARK AND LETTERING. Preserve exactly the gold angular monogram, the word GRANFACE (GRAN bold, FACE thin), and ODONTOLOGIA below, preserving original letter shapes, spacing, alignment, proportions, gold gradient colors and relative positions. Do not redraw, redesign, invent or change any lettering or symbol. No new shadows, no glow, no colored backdrop. Output clean high-resolution transparent PNG of the complete original logo. Keep the original composition and aspect ratio as closely as possible.
+
+Prompt completo:
+Use case: photorealistic-natural. Asset type: two-state photographic comparison sprite for a fictional dental clinic website demo. Generate one single image containing TWO equally sized vertical portrait photographs side by side, edge-to-edge with NO gutter, perfectly equal halves. Overall image wide 2:1; each half a square portrait. The EXACT SAME fictional adult Brazilian woman about 30 years old, shoulder-length dark brown hair tucked behind ears, simple black blouse, warm neutral beige studio background, frontal head and upper shoulders, entire face visible, friendly open smile clearly revealing upper and lower teeth. Identical face, hair, posture, head position, expression, lip outlines, camera, framing, lighting, outfit and background in both halves; facial landmarks must align pixel for pixel when halves are overlaid as a before-after slider. LEFT HALF: natural slightly yellow/stained teeth and visibly mild-to-moderate dental crowding, a couple front teeth a little rotated and uneven, ordinary believable smile; no decay, injury or severe defects. RIGHT HALF: ONLY teeth altered to naturally aligned, harmonious, clean bright ivory smile, realistic natural tooth shapes, not ultra-white veneers. Keep gums and lips exactly unchanged. Portrait should feel premium and warm, authentic skin texture, neutral photographic lighting, sharp dental detail. Include full forehead through shoulders in each half with enough space around face. No labels, no text, no divider line, no logos, no watermark, no claim that this is a real patient. This is an original AI-generated fictional illustrative transformation for a clearly labeled visual prototype.
